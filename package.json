@@ -1,0 +1,21 @@
+{
+  "name": "bringg",
+  "version": "1.0.0",
+  "description": "Bringg assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moshe Davidesko",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "boom": "^7.3.0",
+    "crypto-js": "^3.1.9-1",
+    "hapi": "^18.1.0",
+    "joi": "^14.3.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0"
+  }
+}
