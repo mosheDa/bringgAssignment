@@ -3,6 +3,7 @@
 **Instructions**  
 
 * git clone https://github.com/mosheDa/bringgAssignment.git  
+* cd .\bringgAssignment
 * npm install   
 * npm start  
 
